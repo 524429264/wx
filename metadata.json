@@ -1,0 +1,8 @@
+{
+  "name": "WeChat H5 Replica",
+  "description": "A high-fidelity WeChat-style H5 mobile application featuring AI-powered chat interactions, contact lists, and a social discovery feed.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
